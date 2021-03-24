@@ -3,8 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appID": "6M4C5C72YG.com.thinkware.universallinktest,
-                "paths": [ "*"]
+                "appID": "6M4C5C72YG.com.thinkware.universallinktest",
+                "paths": [ "*" ]
             }
         ]
     }
