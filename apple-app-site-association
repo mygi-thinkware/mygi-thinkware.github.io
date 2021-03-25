@@ -5,10 +5,6 @@
             {
                 "appID": "6M4C5C72YG.com.thinkware.universallinktest",
                 "paths": [ "/home.html" ]
-            },
-            {
-                "appID": "6M4C5C72YG.com.thinkware.lima.sony",
-                "paths": [ "/home.html" ]
             }
         ]
     }
