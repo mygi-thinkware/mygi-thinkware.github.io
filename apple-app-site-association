@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "6M4C5C72YG.com.thinkware.universallinktest",
-                "paths": [ "*" ]
+                "paths": [ "/home.html" ]
             }
         ]
     }
